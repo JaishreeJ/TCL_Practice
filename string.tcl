@@ -1,0 +1,6 @@
+puts [string compare "Goldern" "Label"]
+puts [string index "Goldern" 4]
+puts [string length "Goldern"]
+puts [string range "I am Studying VLSI" 2 12]
+puts [string tolower "VLSI DESIGN"]
+puts [string toupper "vlsi design"]
